@@ -1,3 +1,4 @@
+//new edit
 const btnEl = document.getElementById("btn");
 const errorMessageEl = document.getElementById("errorMessage");
 const galleryEl = document.getElementById("gallery");
